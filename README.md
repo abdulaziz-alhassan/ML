@@ -1,1 +1,1 @@
-this is a repository for my ML labs
+This is a regression problem of predicting the house prices based on the size and location.The target variable in this dataset is the House price snd The machine learning model will learn patterns and relationships between the input features and the sale price to make accurate price predictions on unseen data.
