@@ -1,1 +1,1 @@
-During this lab i learnd about data quality assessment and preprocessing and how to handle missing values and outliers and how to normlize my data for future use in my ml model for more effecint preformance
+During this lab I learned about feature engineering and how it benefits the model by combining features into stronger more meaningful features while also reducing the number of features thus enhancing the performance 
